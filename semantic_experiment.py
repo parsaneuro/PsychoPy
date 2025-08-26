@@ -1,4 +1,3 @@
-# This experiment was designed by student id: 291928
 # this code is designed based on PsychoPy version v2024.2.4
 #-----importing all necessary libraries for the experiment---------------------------------------------------------------------
 
