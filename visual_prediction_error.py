@@ -3,6 +3,12 @@ from psychopy import visual, core, event, gui, data
 import os, random, csv
 
 # ============================
+# Literature Documantation
+# ============================
+# The documentation related to this project and underlying literature for that can be found in the same repository in a file named "facilitated_visual_perception_prediction"
+
+
+# ============================
 # Participant Info
 # ============================
 expInfo = {'Participant': '', 'Session': '001'}
